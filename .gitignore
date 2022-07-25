@@ -30,3 +30,9 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+#cli do stripe 
+stripe.exe
+
+#manual txt
+manual.txt
